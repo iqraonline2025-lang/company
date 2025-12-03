@@ -1,0 +1,34 @@
+- [x] Create reusable modal components for add/edit forms (Modal.jsx)
+- [x] Create specific form components for each content type (ProjectForm.jsx, CourseForm.jsx, etc.)
+- [x] Add CRUD functions for projects (create, update, delete)
+- [x] Add CRUD functions for courses (create, update, delete)
+- [x] Add CRUD functions for testimonials (create, update, delete)
+- [x] Add CRUD functions for packages (create, update, delete)
+- [x] Add CRUD functions for pricing-plans (create, update, delete)
+- [x] Add CRUD functions for featured-projects (create, update, delete)
+- [x] Update Dashboard.jsx to include add/edit/delete buttons for each section
+- [x] Integrate modals into Dashboard.jsx for CRUD operations
+- [x] Implement form validation and error handling
+- [x] Add confirmation dialogs for delete operations
+- [x] Ensure real-time updates to website content after CRUD operations
+- [ ] # Test all CRUD operations and verify data consistency
+
+# TODO List for Implementing CRUD Operations in Dashboard
+
+- [x] Create reusable modal components for add/edit forms (Modal.jsx)
+- [x] Create specific form components for each content type (ProjectForm.jsx, CourseForm.jsx, etc.)
+- [x] Add CRUD functions for projects (create, update, delete)
+- [x] Add CRUD functions for courses (create, update, delete)
+- [x] Add CRUD functions for testimonials (create, update, delete)
+- [x] Add CRUD functions for packages (create, update, delete)
+- [x] Add CRUD functions for pricing-plans (create, update, delete)
+- [x] Add CRUD functions for featured-projects (create, update, delete)
+- [x] Update Dashboard.jsx to include add/edit/delete buttons for each section
+- [x] Integrate modals into Dashboard.jsx for CRUD operations
+- [x] Implement form validation and error handling
+- [x] Add confirmation dialogs for delete operations
+- [x] Ensure real-time updates to website content after CRUD operations
+- [x] Test all CRUD operations and verify data consistency
+- [x] Fix missing form components (PackageForm.jsx, FeaturedProjectForm.jsx)
+- [x] Complete Dashboard.jsx implementation with all sections and modals
+- [x] Fix import errors and missing components in dashboard
