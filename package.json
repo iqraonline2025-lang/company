@@ -10,14 +10,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@gsap/react": "^2.1.2",
+=======
+>>>>>>> e8d5e685ef16b3f7791a58e0cb28427671686f85
     "@lottiefiles/react-lottie-player": "^3.6.0",
     "@stripe/stripe-js": "^8.5.3",
     "@supabase/supabase-js": "^2.86.0",
     "@tailwindcss/postcss": "^4.1.17",
     "firebase": "^12.6.0",
     "framer-motion": "^12.23.24",
+<<<<<<< HEAD
     "gsap": "^3.14.2",
+=======
+>>>>>>> e8d5e685ef16b3f7791a58e0cb28427671686f85
     "lucide-react": "^0.554.0",
     "nodemailer": "^7.0.11",
     "react": "^18.3.1",
@@ -25,10 +31,14 @@
     "react-helmet": "^6.1.0",
     "react-icons": "^5.5.0",
     "react-intersection-observer": "^10.0.0",
+<<<<<<< HEAD
     "react-parallax-tilt": "^1.7.315",
     "react-router-dom": "^7.9.6",
     "styled-components": "^6.1.19",
     "typewriter-effect": "^2.22.0"
+=======
+    "react-router-dom": "^7.9.6"
+>>>>>>> e8d5e685ef16b3f7791a58e0cb28427671686f85
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
